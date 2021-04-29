@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15" height="15" />😄 Oi, eu sou Lucas Bethuel  
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17" height="17" />😄 Oi, eu sou Lucas Bethuel  
 - 👀 Estou iniciando no mundo da programação
 - 🌱 Atualmente estudando JavaScript, CSS e HTML
 - 📫 Você pode me encontrar clicando nos botões abaixo 👇
