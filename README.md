@@ -1,7 +1,7 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17" height="17" />😄 Oi, eu sou Lucas Bethuel  
 - 👀 Estou iniciando no mundo da programação
 - 🌱 Atualmente estudando JavaScript, CSS e HTML
-- 📫 Você pode me encontrar clicando nos botões abaixo 👇
+- 👇 Você pode me encontrar clicando nos botões abaixo 
 <!---
 lbethuel/lbethuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
