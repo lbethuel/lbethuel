@@ -1,6 +1,6 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17" height="17" />😄 Oi, eu sou Lucas Bethuel  
-- 👀 Estou iniciando no mundo da programação
-- 🌱 Atualmente estudando JavaScript, CSS, HTML, JAVA e C#.
+- 👀 Estagiando como Devs FullStack na Rede de SuperMercado PegPese.
+- 🌱 Atualmente estudando  CSS, HTML, JavaScript/React
 - 👇 Você pode me encontrar clicando nos botões abaixo 
 <!---
 lbethuel/lbethuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
