@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17" height="17" />😄 Oi, eu sou Lucas Bethuel  
+- Lucas Bethuel  
 - 👀 Web designer.
 - ⚒️ WordPress/PHP.
   
